@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596403152661",
+    "project_id": "dcn-database",
+    "storage_bucket": "dcn-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596403152661:android:8c718ab5578fe3c3ad6b1c",
+        "android_client_info": {
+          "package_name": "com.example.dcn_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBCOfxpn2RtfbRaACECyhD_WC7SkKVlAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
